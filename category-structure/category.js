@@ -253,21 +253,6 @@ const category = [
                         type: 'product'
                     },
                     {
-                        id: 'pickles-chutney',
-                        name: 'Pickles & Chutney',
-                        type: 'product'
-                    },
-                    {
-                        id: 'cooking-paste',
-                        name: 'Cooking Paste',
-                        type: 'product'
-                    },
-                    {
-                        id: 'papad-fryums',
-                        name: 'Papad & Fryums',
-                        type: 'product'
-                    },
-                    {
                         id: 'herbs-seasonings',
                         name: 'Herbs & Seasonings',
                         type: 'product'
@@ -378,11 +363,6 @@ const category = [
                         type: 'product'
                     },
                     {
-                        id: 'rusk-khari-wafers',
-                        name: 'Rusk, Khari & Wafers',
-                        type: 'product'
-                    },
-                    {
                         id: 'baking-essentials',
                         name: 'Baking Essentials',
                         type: 'product'
@@ -400,25 +380,10 @@ const category = [
                         type: 'product'
                     },
                     {
-                        id: 'peanut-butter',
-                        name: 'Peanut Butter',
-                        type: 'product'
-                    },
-                    {
-                        id: 'mayonnaise',
-                        name: 'Mayonnaise',
-                        type: 'product'
-                    },
-                    {
                         id: 'honey',
                         name: 'Honey',
                         type: 'product'
                     },
-                    {
-                        id: 'syrup-pre-mixes',
-                        name: 'Syrup & Pre Mixes',
-                        type: 'product'
-                    }
                 ]
             }
         ]
@@ -453,11 +418,6 @@ const category = [
                         name: 'Popcorn',
                         type: 'product'
                     },
-                    {
-                        id: 'papad-fryums',
-                        name: 'Papad & Fryums',
-                        type: 'product'
-                    }
                 ]
             },
             {
@@ -495,11 +455,6 @@ const category = [
                         name: 'Rusk, Khari & Wafers',
                         type: 'product'
                     },
-                    {
-                        id: 'cakes-cream-roll-pies',
-                        name: 'Cakes, Cream Roll & Pies',
-                        type: 'product'
-                    }
                 ]
             },
             {
@@ -570,11 +525,6 @@ const category = [
                         type: 'product'
                     },
                     {
-                        id: 'pickles-chutney',
-                        name: 'Pickles & Chutney',
-                        type: 'product'
-                    },
-                    {
                         id: 'dips-salad-dressings',
                         name: 'Dips & Salad Dressings',
                         type: 'product'
@@ -641,11 +591,6 @@ const category = [
                     {
                         id: 'water-soda',
                         name: 'Water & Soda',
-                        type: 'product'
-                    },
-                    {
-                        id: 'syrup-pre-mixes',
-                        name: 'Syrup & Pre Mixes',
                         type: 'product'
                     },
                     {
@@ -744,16 +689,6 @@ const category = [
                     {
                         id: 'shower-gel',
                         name: 'Shower Gel',
-                        type: 'product'
-                    },
-                    {
-                        id: 'face-wash-cleanser',
-                        name: 'Face Wash & Cleanser',
-                        type: 'product'
-                    },
-                    {
-                        id: 'scrub-exfoliators',
-                        name: 'Scrub & Exfoliators',
                         type: 'product'
                     },
                     {
